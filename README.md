@@ -1,28 +1,29 @@
 # **Uncovering Business Insights: SQL Analysis of eCommerce Performance**
 
-## **Introduction**
+**Introduction**
 In eCommerce business, measuring business performance is important to track, monitor, and assess the success or failure of various business processes. This project aims to analyze the business performance for an eCommerce company by considering several business metrics, such as customer growth, product quality, and payment types.
 
 In this project, data analysis will be conducted using SQL language to examine the business performance from various perspectives. The data used in this project consists of customer data, product data, and transaction data. In addition, the analysis methods used in this project include data exploration, modeling, and visualization to provide a better understanding of the eCommerce company's performance.
 
 The results of this project are expected to provide valuable insights for eCommerce companies in making better business decisions. This repository contains SQL code, data files, and analysis results in the form of a report that can be used as a reference or guide for anyone who wants to analyze the business performance of an eCommerce company.
 
-## **Objective**
+**Objective**
 The objective of this project is to analyze the business performance of an eCommerce company using SQL and generate specific insights, such as identifying customer growth trends, evaluating product quality against standards, and assessing the usability of payment methods for customers.
 
-## **Dataset**
+**Dataset**
 This dataset contains information on 100,000 orders placed between 2016 and 2018 across several Brazilian eCommerce platforms. The features include various dimensions of order status, pricing, payment and freight performance, customer location, product attributes, and reviews written by customers.
 
-## **Data Preparation**
+**Data Preparation**
 1. The tool I used is "pgAdmin4".
 2. I created 8 tables and new columns using the "CREATE" statement, with data provided in a CSV file. I made sure to match the data types.
 3. I imported the CSV data into the database using the "COPY" statement, making sure that the full path to the file_name.csv in local storage is specified.
 4. Using the "ALTER TABLE" statement, I created an ERD that specifies the primary and foreign keys.
 -----------------------
 Figure 1. Entity Relationship Diagram
-## **Analysis**
+**Analysis**
 **Annual Customer Activity Growth Analysis**
-A table below shows the combined result of the matrix between the number of Monthly Active Users, number of New Customers, number of repeat orders, and average frequency of orders.
+A table below shows the combined result of the matrix between the number of monthly active users, number of new customers, number of repeat orders, and average frequency of orders.
+
 -------------------------
 Figure 2. Overall Annual Customer Activity Growth Analysis
 
@@ -38,7 +39,7 @@ There was an increasing trend from 2016 to 2017 for the number of customers maki
 Figure 5. Average Frequency Orders
 The average number of orders placed by customers did not change much each year, on average customers only placed 1 order.
 
-## **Annual Product Category Quality Analysis**
+**Annual Product Category Quality Analysis**
 The table below displays the combined results of the matrix between the company's revenue, the number of canceled orders, product categories with the highest total revenue, and product categories with the number of canceled orders each year.
 -----------------
 Figure 6. Overall Annual Product Category Quality Analysis
@@ -55,7 +56,7 @@ The revenue generated from top products also increased every year. In addition, 
 Figure 9. Total revenue of top canceled products per year
 The category of products with the highest number of cancellations changes every year. However, in 2018, the most canceled and the best-selling category was health and beauty products. This can happen because the health and beauty category dominates the entire transactions made in 2018.
 
-## **Analysis of Annual Payment Type Usage**
+**Analysis of Annual Payment Type Usage**
 This is a table containing information about the number of users for each payment method for each year.
 ----------------------------------
 Figure 10. Overall Analysis of Annual Payment Type Usage
@@ -66,7 +67,7 @@ Figure 11. Each payment type per year
 • Debit cards have shown a significant increase from 2017 to 2018. This may be due to promotions for debit card payments, attracting more customers.
 • Payment using vouchers or boleto remained stagnant and tended to decrease in the use of vouchers, which may suggest that the company reduced the use of vouchers.
 
-## **Conclusion:**
+**Conclusion:**
 • In terms of customer growth or Annual Customer Activity Growth, it can be concluded that there was an increase in the number of new customers and Monthly Active Users (MAU) in 2017, indicating significant growth.
 • In terms of product quality or Annual Product Category Quality Analysis, there was an increase in the company's total revenue every year. Interestingly, the health & beauty product category was the most popular, but also the category with the highest number of cancellations in 2018.
 • The most popular type of payment from year to year is Credit Card.
