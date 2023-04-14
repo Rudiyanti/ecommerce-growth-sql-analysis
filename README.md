@@ -19,7 +19,7 @@ This dataset contains information on 100,000 orders placed between 2016 and 2018
 3. I imported the CSV data into the database using the "COPY" statement, making sure that the full path to the file_name.csv in local storage is specified.
 4. Using the "ALTER TABLE" statement, I created an ERD that specifies the primary and foreign keys.
    <p align="center">
-    <img width="561" alt="ERD Screenshot" src="https://user-https://raw.githubusercontent.com/Rudiyanti/ecommerce-growth-sql-analysis/main/erd.png"><br>
+    <img width="561" alt="ERD Screenshot" src="https://user-raw.githubusercontent.com/Rudiyanti/ecommerce-growth-sql-analysis/main/erd.png"><br>
     Figure 1: Entity Relationship Diagram
    </p>
 **Analysis** <br>
