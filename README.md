@@ -26,11 +26,10 @@ This dataset contains information on 100,000 orders placed between 2016 and 2018
 **Annual Customer Activity Growth Analysis** <br>
 A table below shows the combined result of the matrix between the number of monthly active users, number of new customers, number of repeat orders, and average frequency of orders.
 
-"year","avg_active_user","new_customers","repeat_order","avg_frequency_order"
-2016,109,326,3,1.01
-2017,3695,43708,1256,1.03
-2018,5338,52062,1167,1.02
-Figure 2. Overall Annual Customer Activity Growth Analysis
+<p align="center">
+    <img width="561" alt="Customers Screenshot" src="https://raw.githubusercontent.com/Rudiyanti/ecommerce-growth-sql-analysis/main/Customers.png"><br>
+    Figure 2: Overall Annual Customer Activity Growth Analysis
+</p>
 
 -----------------
 Figure 3. Average Active User vs New Customer
