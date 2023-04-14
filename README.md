@@ -32,49 +32,77 @@ A table below shows the combined result of the matrix between the number of mont
     Figure 2: Overall Annual Customer Activity Growth Analysis
 </p>
 
------------------
-Figure 3. Average Active User vs New Customer
+<p align="center">
+    <img width="561" alt="Customers Screenshot" src="https://raw.githubusercontent.com/Rudiyanti/ecommerce-growth-sql-analysis/main/avg_active_cus.png"><br>
+    Figure 3: Average Active User vs New Customer
+</p>
+
 There was a significant increase in the number of new customers in 2017. However, since the available data for 2016 only covers the last four months of the year (September to December), it can be concluded that the growth only occurred in 2017. Additionally, the trend for Monthly Active Users (MAU) also increased every year, reaching 5,338 customers in 2018.
 
-----------------
-Figure 4. Repeat order vs Average Frequency Order
+<p align="center">
+    <img width="561" alt="Average Active Customers" src="https://raw.githubusercontent.com/Rudiyanti/ecommerce-growth-sql-analysis/main/avg_active_cus.png"><br>
+    Figure 4. Repeat order vs Average Frequency Order
+</p>
+    
 There was an increasing trend from 2016 to 2017 for the number of customers making more than one purchase. However, in 2018 there was a slight decrease in the number of customers making repeat purchases.
 
-----------------
-Figure 5. Average Frequency Orders
+<p align="center">
+    <img width="561" alt="Average Frequency Orders" src="https://raw.githubusercontent.com/Rudiyanti/ecommerce-growth-sql-analysis/main/avg_frequency.png"><br>
+    Figure 5. Average Frequency Orders
+</p>
+
 The average number of orders placed by customers did not change much each year, on average customers only placed 1 order.
 
 **Annual Product Category Quality Analysis** <br>
+
 The table below displays the combined results of the matrix between the company's revenue, the number of canceled orders, product categories with the highest total revenue, and product categories with the number of canceled orders each year.
 
------------------
+<p align="center">
+    <img width="561" alt="Prdouct Screenshot" src="https://raw.githubusercontent.com/Rudiyanti/ecommerce-growth-sql-analysis/main/Product.png"><br>
 Figure 6. Overall Annual Product Category Quality Analysis
+</p>
 
----------------
+<p align="center">
+    <img width="561" alt="year total revenue" src="https://raw.githubusercontent.com/Rudiyanti/ecommerce-growth-sql-analysis/main/total_revenue.png"><br>
 Figure 7. Year total revenue
+</p>    
+    
 Overall, there has been an increase in revenue every year
 
---------------
+<p align="center">
+    <img width="561" alt="top revenue" src="https://raw.githubusercontent.com/Rudiyanti/ecommerce-growth-sql-analysis/main/total_top_revenue.png"><br>
 Figure 8. Total revenue of top products per year
+</p>    
+    
 The revenue generated from top products also increased every year. In addition, the category that became the top product was different each year. In 2018, the company generated the highest revenue with the top product category of health and beauty.
 
---------------
+<p align="center">
+    <img width="561" alt="top canceled" src="https://raw.githubusercontent.com/Rudiyanti/ecommerce-growth-sql-analysis/main/total_canceled.png"><br>
 Figure 9. Total revenue of top canceled products per year
+</p>
+
 The category of products with the highest number of cancellations changes every year. However, in 2018, the most canceled and the best-selling category was health and beauty products. This can happen because the health and beauty category dominates the entire transactions made in 2018.
 
 **Analysis of Annual Payment Type Usage** <br>
+
 This is a table containing information about the number of users for each payment method for each year.
 
-----------------------------------
+<p align="center">
+    <img width="561" alt="payment type" src="https://raw.githubusercontent.com/Rudiyanti/ecommerce-growth-sql-analysis/main/Payment.png"><br>
 Figure 10. Overall Analysis of Annual Payment Type Usage
+</p>
 
----------------------------
+<p align="center">
+    <img width="561" alt="each payment type" src="https://raw.githubusercontent.com/Rudiyanti/ecommerce-growth-sql-analysis/main/payment_type.png"><br>
 Figure 11. Each payment type per year
+</p>    
+    
 • The payment methods most commonly used by customers are credit cards and tend to increase each year.
 • Debit cards have shown a significant increase from 2017 to 2018. This may be due to promotions for debit card payments, attracting more customers.
 • Payment using vouchers or boleto remained stagnant and tended to decrease in the use of vouchers, which may suggest that the company reduced the use of vouchers.
 
 **Conclusion:** <br>
+
 • In terms of customer growth or Annual Customer Activity Growth, it can be concluded that there was an increase in the number of new customers and Monthly Active Users (MAU) in 2017, indicating significant growth.
 • In terms of product quality or Annual Product Category Quality Analysis, there was an increase in the company's total revenue every year. Interestingly, the health & beauty product category was the most popular, but also the category with the highest number of cancellations in 2018.
 • The most popular type of payment from year to year is Credit Card.
