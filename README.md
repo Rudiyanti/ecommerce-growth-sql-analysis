@@ -98,12 +98,12 @@ This is a table containing information about the number of users for each paymen
 Figure 11. Each payment type per year
 </p>    
     
-• The payment methods most commonly used by customers are credit cards and tend to increase each year.
-• Debit cards have shown a significant increase from 2017 to 2018. This may be due to promotions for debit card payments, attracting more customers.
-• Payment using vouchers or boleto remained stagnant and tended to decrease in the use of vouchers, which may suggest that the company reduced the use of vouchers.
+• The payment methods most commonly used by customers are credit cards and tend to increase each year. <br>
+• Debit cards have shown a significant increase from 2017 to 2018. This may be due to promotions for debit card payments, attracting more customers.<br>
+• Payment using vouchers or boleto remained stagnant and tended to decrease in the use of vouchers, which may suggest that the company reduced the use of vouchers.<br>
 
 **Conclusion:** <br>
 
-• In terms of customer growth or Annual Customer Activity Growth, it can be concluded that there was an increase in the number of new customers and Monthly Active Users (MAU) in 2017, indicating significant growth.
-• In terms of product quality or Annual Product Category Quality Analysis, there was an increase in the company's total revenue every year. Interestingly, the health & beauty product category was the most popular, but also the category with the highest number of cancellations in 2018.
-• The most popular type of payment from year to year is Credit Card.
+• In terms of customer growth or Annual Customer Activity Growth, it can be concluded that there was an increase in the number of new customers and Monthly Active Users (MAU) in 2017, indicating significant growth.<br>
+• In terms of product quality or Annual Product Category Quality Analysis, there was an increase in the company's total revenue every year. Interestingly, the health & beauty product category was the most popular, but also the category with the highest number of cancellations in 2018.<br>
+• The most popular type of payment from year to year is Credit Card.<br>
