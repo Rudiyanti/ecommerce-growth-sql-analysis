@@ -25,12 +25,13 @@ This dataset contains information on 100,000 orders placed between 2016 and 2018
 
 **Analysis** <br>
 **Annual Customer Activity Growth Analysis** <br>
-A table below shows the combined result of the matrix between the number of monthly active users, number of new customers, number of repeat orders, and average frequency of orders.
 
 <p align="center">
     <img width="561" alt="Customers Screenshot" src="https://raw.githubusercontent.com/Rudiyanti/ecommerce-growth-sql-analysis/main/Customers.png"><br>
     Figure 2: Overall Annual Customer Activity Growth Analysis
 </p>
+
+A table below shows the combined result of the matrix between the number of monthly active users, number of new customers, number of repeat orders, and average frequency of orders.
 
 <p align="center">
     <img width="561" alt="Customers Screenshot" src="https://raw.githubusercontent.com/Rudiyanti/ecommerce-growth-sql-analysis/main/avg_active_cus.png"><br>
@@ -55,12 +56,12 @@ The average number of orders placed by customers did not change much each year, 
 
 **Annual Product Category Quality Analysis** <br>
 
-The table below displays the combined results of the matrix between the company's revenue, the number of canceled orders, product categories with the highest total revenue, and product categories with the number of canceled orders each year.
-
 <p align="center">
     <img width="561" alt="Prdouct Screenshot" src="https://raw.githubusercontent.com/Rudiyanti/ecommerce-growth-sql-analysis/main/Product.png"><br>
 Figure 6. Overall Annual Product Category Quality Analysis
 </p>
+
+The table below displays the combined results of the matrix between the company's revenue, the number of canceled orders, product categories with the highest total revenue, and product categories with the number of canceled orders each year.
 
 <p align="center">
     <img width="561" alt="year total revenue" src="https://raw.githubusercontent.com/Rudiyanti/ecommerce-growth-sql-analysis/main/total_revenue.png"><br>
@@ -85,12 +86,12 @@ The category of products with the highest number of cancellations changes every 
 
 **Analysis of Annual Payment Type Usage** <br>
 
-This is a table containing information about the number of users for each payment method for each year.
-
 <p align="center">
     <img width="561" alt="payment type" src="https://raw.githubusercontent.com/Rudiyanti/ecommerce-growth-sql-analysis/main/Payment.png"><br>
 Figure 10. Overall Analysis of Annual Payment Type Usage
 </p>
+
+This is a table containing information about the number of users for each payment method for each year.
 
 <p align="center">
     <img width="561" alt="each payment type" src="https://raw.githubusercontent.com/Rudiyanti/ecommerce-growth-sql-analysis/main/payment_type.png"><br>
