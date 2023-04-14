@@ -22,6 +22,7 @@ This dataset contains information on 100,000 orders placed between 2016 and 2018
     <img width="561" alt="ERD Screenshot" src="https://raw.githubusercontent.com/Rudiyanti/ecommerce-growth-sql-analysis/main/erd.png"><br>
     Figure 1: Entity Relationship Diagram
 </p>
+
 **Analysis** <br>
 **Annual Customer Activity Growth Analysis** <br>
 A table below shows the combined result of the matrix between the number of monthly active users, number of new customers, number of repeat orders, and average frequency of orders.
