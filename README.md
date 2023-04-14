@@ -41,7 +41,7 @@ A table below shows the combined result of the matrix between the number of mont
 There was a significant increase in the number of new customers in 2017. However, since the available data for 2016 only covers the last four months of the year (September to December), it can be concluded that the growth only occurred in 2017. Additionally, the trend for Monthly Active Users (MAU) also increased every year, reaching 5,338 customers in 2018.
 
 <p align="center">
-    <img width="561" alt="Average Active Customers" src="https://raw.githubusercontent.com/Rudiyanti/ecommerce-growth-sql-analysis/main/avg_active_cus.png"><br>
+    <img width="561" alt="repeat order" src="https://raw.githubusercontent.com/Rudiyanti/ecommerce-growth-sql-analysis/main/CUSTOM~2.PNG"><br>
     Figure 4. Repeat order vs Average Frequency Order
 </p>
     
