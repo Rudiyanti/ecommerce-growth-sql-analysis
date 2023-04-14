@@ -18,8 +18,10 @@ This dataset contains information on 100,000 orders placed between 2016 and 2018
 2. I created 8 tables and new columns using the "CREATE" statement, with data provided in a CSV file. I made sure to match the data types.
 3. I imported the CSV data into the database using the "COPY" statement, making sure that the full path to the file_name.csv in local storage is specified.
 4. Using the "ALTER TABLE" statement, I created an ERD that specifies the primary and foreign keys.
------------------------
-Figure 1. Entity Relationship Diagram
+   <p align="center">
+    <img width="561" alt="ERD Screenshot" src="https://user-https://raw.githubusercontent.com/Rudiyanti/ecommerce-growth-sql-analysis/main/erd.png"><br>
+    Figure 1: Entity Relationship Diagram
+   </p>
 **Analysis** <br>
 **Annual Customer Activity Growth Analysis** <br>
 A table below shows the combined result of the matrix between the number of monthly active users, number of new customers, number of repeat orders, and average frequency of orders.
