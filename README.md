@@ -1,6 +1,6 @@
 # **Uncovering Business Insights: SQL Analysis of eCommerce Performance**
 
-**Introduction**
+**Introduction** <br>
 In eCommerce business, measuring business performance is important to track, monitor, and assess the success or failure of various business processes. This project aims to analyze the business performance for an eCommerce company by considering several business metrics, such as customer growth, product quality, and payment types.
 
 In this project, data analysis will be conducted using SQL language to examine the business performance from various perspectives. The data used in this project consists of customer data, product data, and transaction data. In addition, the analysis methods used in this project include data exploration, modeling, and visualization to provide a better understanding of the eCommerce company's performance.
